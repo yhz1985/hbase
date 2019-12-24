@@ -1,1 +1,1 @@
-FROM gcr.io/ivynet-containers/hbase:2.1.8
+FROM gcr.io/ivynet-containers/hbase:2.2.2
